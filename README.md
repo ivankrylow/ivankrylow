@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+```shell
+whoami
+```
+
+```java
+void main() {
+    System.out.println("I am a Java developer");
+}
+```
+
+```go
+func main() {
+    fmt.Println("I am a Go developer")
+}
+```
+
+
 <!--
 **ivankrylow/ivankrylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
